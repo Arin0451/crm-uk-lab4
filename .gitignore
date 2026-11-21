@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local SQLite files used by the lab
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
